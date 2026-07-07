@@ -1,0 +1,15 @@
+# generated outputs
+data/output/*
+!data/output/.gitkeep
+
+# downloaded TEPCO raw data (not redistributed)
+data/tepco/
+
+# python
+__pycache__/
+*.pyc
+.venv/
+.pytest_cache/
+
+# os
+.DS_Store
