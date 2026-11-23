@@ -1,0 +1,225 @@
+{
+  "canonical_sha256": "8a34dae5e3d0d3bd9579ef83abd03c32a4b8abf844a4fb2098b7443750638a3a",
+  "dataset_id": "tepco_202204_202603_gap38_v1_20261118",
+  "forecast_sha256": "5354ec308e302c5a472eb06aa08c886f17440bdde0bb59b70ea37906c92b8855",
+  "selected_dates": [
+    "2026-03-10",
+    "2025-04-01",
+    "2026-03-03",
+    "2026-03-11",
+    "2026-03-13",
+    "2025-08-06",
+    "2025-08-05",
+    "2025-08-27",
+    "2025-07-24",
+    "2025-07-25",
+    "2025-09-02",
+    "2025-09-01",
+    "2025-09-03",
+    "2025-09-17",
+    "2025-09-08",
+    "2026-02-09",
+    "2026-01-07",
+    "2026-01-22",
+    "2026-02-10",
+    "2026-01-26"
+  ],
+  "sources": {
+    "AREA_202204.zip": {
+      "sha256": "70f26d11cfe57320e4d14df61c17c8ef9cb0c678012d0f99e993fbc6a67052dc",
+      "url": "https://www4.tepco.co.jp/forecast/html/images/AREA_202204.zip"
+    },
+    "AREA_202205.zip": {
+      "sha256": "ce0d9be7770a6ff7e14aadd1018536a857107757683c1eb9b7220b6fac75b84e",
+      "url": "https://www4.tepco.co.jp/forecast/html/images/AREA_202205.zip"
+    },
+    "AREA_202206.zip": {
+      "sha256": "c287a9c70a267391f043f6358e85faf264eae5d45dad4c0ffa09cf927bdb601f",
+      "url": "https://www4.tepco.co.jp/forecast/html/images/AREA_202206.zip"
+    },
+    "AREA_202207.zip": {
+      "sha256": "2b8bfc08b39393fd7829d21cd4947a81e5027f1c25569727bca95d8a09159f4a",
+      "url": "https://www4.tepco.co.jp/forecast/html/images/AREA_202207.zip"
+    },
+    "AREA_202208.zip": {
+      "sha256": "55a6b4a722c6437e5268c8e76ae4152105ed760a789d249451bce9a5595ecda4",
+      "url": "https://www4.tepco.co.jp/forecast/html/images/AREA_202208.zip"
+    },
+    "AREA_202209.zip": {
+      "sha256": "5e9cb11be5b12a7041757e066f08b61a8ecca272fcbe86bc5887f88492fa618d",
+      "url": "https://www4.tepco.co.jp/forecast/html/images/AREA_202209.zip"
+    },
+    "AREA_202210.zip": {
+      "sha256": "5917af5aa70607247d9cef82c55dfeb3482b93a4b450fcd063815386dd96b226",
+      "url": "https://www4.tepco.co.jp/forecast/html/images/AREA_202210.zip"
+    },
+    "AREA_202211.zip": {
+      "sha256": "8fcf139c4b5ab5b9ea1854da429d6036c37ae0696517c959764bbdf0b249c997",
+      "url": "https://www4.tepco.co.jp/forecast/html/images/AREA_202211.zip"
+    },
+    "AREA_202212.zip": {
+      "sha256": "ba3639f48d3faa22dc3666553b26b43879d8c2aa93a918d43fbd210e253c1e25",
+      "url": "https://www4.tepco.co.jp/forecast/html/images/AREA_202212.zip"
+    },
+    "AREA_202301.zip": {
+      "sha256": "cb39b1368882ac58f64ec9a2c2eb21cd37d4b0f9e3a553fead11f36c1936e5aa",
+      "url": "https://www4.tepco.co.jp/forecast/html/images/AREA_202301.zip"
+    },
+    "AREA_202302.zip": {
+      "sha256": "b5187dee1f1ff33c203f0c6babec2f6af9a0a98d70fa285aba3205563eb39e66",
+      "url": "https://www4.tepco.co.jp/forecast/html/images/AREA_202302.zip"
+    },
+    "AREA_202303.zip": {
+      "sha256": "6d0f529ab6c87c55efe4ff1207cbb85cbc924fdf1a0b3e89136f54f520fddfa0",
+      "url": "https://www4.tepco.co.jp/forecast/html/images/AREA_202303.zip"
+    },
+    "AREA_202304.zip": {
+      "sha256": "6a8ccc3dae99b95a0e8dafa13d67e06b3f9f893c242dc6b54dba75e838480fca",
+      "url": "https://www4.tepco.co.jp/forecast/html/images/AREA_202304.zip"
+    },
+    "AREA_202305.zip": {
+      "sha256": "270458a19d6e11a3b53ded30e222922ba521d95d4685e4fab1caad3b60475c09",
+      "url": "https://www4.tepco.co.jp/forecast/html/images/AREA_202305.zip"
+    },
+    "AREA_202306.zip": {
+      "sha256": "8c3d9d1c7fc0336607e7495ff491a9e646d9661b7b2f47cfa8a6450a489e6dee",
+      "url": "https://www4.tepco.co.jp/forecast/html/images/AREA_202306.zip"
+    },
+    "AREA_202307.zip": {
+      "sha256": "7d69d357d3a692a419dec1f6838377114c292ffef7f58f11d3fd5d502ce0a85e",
+      "url": "https://www4.tepco.co.jp/forecast/html/images/AREA_202307.zip"
+    },
+    "AREA_202308.zip": {
+      "sha256": "92908221bd9a1c61ded2f61fa6bcc7805528f3273ba0d6a096b83f4c364e62e3",
+      "url": "https://www4.tepco.co.jp/forecast/html/images/AREA_202308.zip"
+    },
+    "AREA_202309.zip": {
+      "sha256": "33fac60a707dd1236660d94eaa4d5cdeb13ef637bef34aafd0808fd03a7e5506",
+      "url": "https://www4.tepco.co.jp/forecast/html/images/AREA_202309.zip"
+    },
+    "AREA_202310.zip": {
+      "sha256": "ffc3a77357951730c4d027917f015b0b117e13c39c7d5bd5d74821b70c521b12",
+      "url": "https://www4.tepco.co.jp/forecast/html/images/AREA_202310.zip"
+    },
+    "AREA_202311.zip": {
+      "sha256": "c058180c104a1310be11197b5d303473fbd144529417d26533db812171a0b1b9",
+      "url": "https://www4.tepco.co.jp/forecast/html/images/AREA_202311.zip"
+    },
+    "AREA_202312.zip": {
+      "sha256": "1a06bc538be54cb49a671610bd9018ee081d20ee0a1959ed277730b12217b25a",
+      "url": "https://www4.tepco.co.jp/forecast/html/images/AREA_202312.zip"
+    },
+    "AREA_202401.zip": {
+      "sha256": "072e3b0ba7232f7ca1ad278f948aad5dfc42bf60dceccd5f58f771ae01730c1a",
+      "url": "https://www4.tepco.co.jp/forecast/html/images/AREA_202401.zip"
+    },
+    "AREA_202402.zip": {
+      "sha256": "38a0b135147e3bb6a15b144f1ce4e10e3d5ac7dd191894ac68b033ee9be9e505",
+      "url": "https://www4.tepco.co.jp/forecast/html/images/AREA_202402.zip"
+    },
+    "AREA_202403.zip": {
+      "sha256": "56bd889955372d28f05c33584cd129042f746e1d509204f1f4a28b951e6c64d0",
+      "url": "https://www4.tepco.co.jp/forecast/html/images/AREA_202403.zip"
+    },
+    "AREA_202404.zip": {
+      "sha256": "ca8e04f1d717af22a3d0d29eba4826236ffec5cc01de922515bf99215f18a844",
+      "url": "https://www4.tepco.co.jp/forecast/html/images/AREA_202404.zip"
+    },
+    "AREA_202405.zip": {
+      "sha256": "c2989f1954f5f40e16391c265c99b745a57ae1113fc4106eb0afa9dd5b126140",
+      "url": "https://www4.tepco.co.jp/forecast/html/images/AREA_202405.zip"
+    },
+    "AREA_202406.zip": {
+      "sha256": "b45ecbe601863cd6b764b4f4fc6de9f042d2a947226e0a30b7996eafd38d0ab1",
+      "url": "https://www4.tepco.co.jp/forecast/html/images/AREA_202406.zip"
+    },
+    "AREA_202407.zip": {
+      "sha256": "49a246bfe6182555e43c7375b1fa8a67976450c48f3011a920cbca82eac81562",
+      "url": "https://www4.tepco.co.jp/forecast/html/images/AREA_202407.zip"
+    },
+    "AREA_202408.zip": {
+      "sha256": "43b4fe3c6022e61d4fc77116eb8198c91f1ccf9500899e8a674b0271ed149a7b",
+      "url": "https://www4.tepco.co.jp/forecast/html/images/AREA_202408.zip"
+    },
+    "AREA_202409.zip": {
+      "sha256": "837ae0c61c7903787d7c35e74b4a1fe1c3982a3bee0b02011d7bfe74bcbb67a5",
+      "url": "https://www4.tepco.co.jp/forecast/html/images/AREA_202409.zip"
+    },
+    "AREA_202410.zip": {
+      "sha256": "20302280dee4db6a38ee6c9ad65ea89047022f3825193feff04fee98e81ae996",
+      "url": "https://www4.tepco.co.jp/forecast/html/images/AREA_202410.zip"
+    },
+    "AREA_202411.zip": {
+      "sha256": "0637c95ed8dbe042c2d73c75ce6fddc1444958159323205c63921e84c3d675fe",
+      "url": "https://www4.tepco.co.jp/forecast/html/images/AREA_202411.zip"
+    },
+    "AREA_202412.zip": {
+      "sha256": "ef2b063a507d4033d41e3617a0034542805ec567f681f6e4b9da92c3114a02b1",
+      "url": "https://www4.tepco.co.jp/forecast/html/images/AREA_202412.zip"
+    },
+    "AREA_202501.zip": {
+      "sha256": "395a0ab97511556c82c5c8b0a41468b3ad78d92c7f953b7a55075601b5f6c52e",
+      "url": "https://www4.tepco.co.jp/forecast/html/images/AREA_202501.zip"
+    },
+    "AREA_202502.zip": {
+      "sha256": "f971e7ecf7eb98cad57f99b895bf0d1c9372ba1164abad2a8dd8e375e33e0e54",
+      "url": "https://www4.tepco.co.jp/forecast/html/images/AREA_202502.zip"
+    },
+    "AREA_202503.zip": {
+      "sha256": "a605d85f9bd629b527b79c80de759ad69ee1233a62e3e7f350c4c0dcc7c998e2",
+      "url": "https://www4.tepco.co.jp/forecast/html/images/AREA_202503.zip"
+    },
+    "AREA_202504.zip": {
+      "sha256": "00deeb32db577b6331ee58039cf3c57a9ea74aa00b3da438e60dee125c79dbec",
+      "url": "https://www4.tepco.co.jp/forecast/html/images/AREA_202504.zip"
+    },
+    "AREA_202505.zip": {
+      "sha256": "cffc2fd88658288f3c5f2e7a778556d04da744f11c722329caafa22dc5480a3f",
+      "url": "https://www4.tepco.co.jp/forecast/html/images/AREA_202505.zip"
+    },
+    "AREA_202506.zip": {
+      "sha256": "2254b4fc1fb91725c4cf39904d694614ecc82b39e4ba5cae20ffd24d11c9eb54",
+      "url": "https://www4.tepco.co.jp/forecast/html/images/AREA_202506.zip"
+    },
+    "AREA_202507.zip": {
+      "sha256": "3917bf6aa2e4332619fd4c8a07e66de132322ba0f274550e71772b68b54f8c76",
+      "url": "https://www4.tepco.co.jp/forecast/html/images/AREA_202507.zip"
+    },
+    "AREA_202508.zip": {
+      "sha256": "ea412c65ffb8125a4a9aad77f5f6f3f56af0fdc27b0e77a208ecb6563daed77e",
+      "url": "https://www4.tepco.co.jp/forecast/html/images/AREA_202508.zip"
+    },
+    "AREA_202509.zip": {
+      "sha256": "8e91c3711ee713017286522cdfede2d5daf1afc9620784d03a0ea5ffe36e13ca",
+      "url": "https://www4.tepco.co.jp/forecast/html/images/AREA_202509.zip"
+    },
+    "AREA_202510.zip": {
+      "sha256": "7ca6ca8ff78e187d3e8d48ad4510059166596ea646c47a56db71dfbc5f7c2a8f",
+      "url": "https://www4.tepco.co.jp/forecast/html/images/AREA_202510.zip"
+    },
+    "AREA_202511.zip": {
+      "sha256": "22fb5d3abd71e7505bc2eee682cd99c25cdccdaa1f8c88d020b1c0064e568d52",
+      "url": "https://www4.tepco.co.jp/forecast/html/images/AREA_202511.zip"
+    },
+    "AREA_202512.zip": {
+      "sha256": "a0d862f092b611a7cf1cf21c1328907eae346b90772298546488b54146236770",
+      "url": "https://www4.tepco.co.jp/forecast/html/images/AREA_202512.zip"
+    },
+    "AREA_202601.zip": {
+      "sha256": "56b9dfd1433249b47795364510cd4bb4626ac9640288ae810375130302d40ad6",
+      "url": "https://www4.tepco.co.jp/forecast/html/images/AREA_202601.zip"
+    },
+    "AREA_202602.zip": {
+      "sha256": "431cbd195bfdc9261c56dfa975c96a5b80c0998c8db4afc737f845d04f05e72e",
+      "url": "https://www4.tepco.co.jp/forecast/html/images/AREA_202602.zip"
+    },
+    "AREA_202603.zip": {
+      "sha256": "9ee5e463c85c66e2c5ae2565dbd5d833151386a44c8f0f646c0cd775af7fea75",
+      "url": "https://www4.tepco.co.jp/forecast/html/images/AREA_202603.zip"
+    },
+    "eria_jukyu_202506_03.csv": {
+      "sha256": "fd12e5b2034adf0cdab04df13cd8e02c3a63963dcfe8f432c531440290ff793e",
+      "url": "https://www.tepco.co.jp/forecast/html/images/eria_jukyu_202506_03.csv"
+    }
+  }
+}

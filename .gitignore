@@ -13,3 +13,6 @@ __pycache__/
 
 # os
 .DS_Store
+
+# isolated environment for the revised experiment
+.venv-revision/

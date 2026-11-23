@@ -25,6 +25,8 @@ FIXTURE_PREFIX := lstm_august_2024_08_05__shift
 # ------------------------------------------------------------------------------
 help:
 	@echo ""
+	@echo "For the revised 20-day experiment, follow README.md."
+	@echo "The Make targets below reproduce the initial single-day submission."
 	@echo "Usage: make <target> [DATE=YYYY-MM-DD] [SHIFT=+N] [VERSION=label]"
 	@echo ""
 	@echo "  -- Tier 1: reproduce the paper from bundled forecast fixtures --"
