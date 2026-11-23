@@ -21,6 +21,7 @@ def save_figure(figure, path):
     plt.close(figure)
 
 
+@plt.rc_context()
 def plot_shift(distributions, slots, out):
     boxes = boxplot_stats(distributions, whis=1.5)
     ink, grey, blue, fill = "#233341", "#788895", "#007da5", "#e5ebef"
@@ -65,6 +66,7 @@ def plot_shift(distributions, slots, out):
     save_figure(fig, out / "fig5")
 
 
+@plt.rc_context()
 def plot_baseline(distributions, out):
     boxes = boxplot_stats(distributions, whis=1.5)
     ink, grey, blue, fill = "#233341", "#788895", "#007da5", "#e5ebef"
@@ -105,6 +107,7 @@ def plot_baseline(distributions, out):
     save_figure(fig, out / "fig6")
 
 
+@plt.rc_context()
 def plot_corrections(effects, out):
     conditions = {
         "timing_oracle": ("Peak-time\nalignment", "Peak-time"),
@@ -210,6 +213,7 @@ def half_hour_label(slot):
     return f"{slot // 2:02d}:{slot % 2 * 30:02d}"
 
 
+@plt.rc_context()
 def plot_waveform(values, case, capacity, out):
     morning, evening = (case[key + "_slot"] / 2 for key in ("morning", "evening"))
     x = [slot / 2 for slot in range(48)]

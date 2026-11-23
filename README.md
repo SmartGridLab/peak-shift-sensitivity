@@ -7,7 +7,8 @@ published by TEPCO Power Grid and a hypothetical aggregate BESS.
 ## Reproduce the revised results
 
 Use Python 3.12. The requirements pin the numerical libraries, including
-PuLP 3.3.0 and its bundled CBC solver. The verified environment is macOS
+PuLP 3.3.0 and its bundled CBC solver, and the manuscript's Matplotlib 3.9.4.
+The verified environment is macOS
 arm64, Python 3.12.13 and CBC 2.10.3. The numerical verification below
 will flag differences at manuscript precision on another platform.
 
